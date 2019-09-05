@@ -23,4 +23,8 @@ coverage
 # Compiled Dirs (http://nodejs.org/api/addons.html)
 build/
 dist/
-
+public/ItemOverview.js
+public/MoreLikeThis.js
+public/PhotoCarousel.js
+public/bundle.js
+public/vendor.js
