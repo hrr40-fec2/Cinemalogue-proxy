@@ -14,15 +14,18 @@
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
+    "aws-sdk": "^2.524.0",
     "babel-loader": "^8.0.6",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "grunt": "^1.0.4",
     "react": "^16.9.0",
     "styled-components": "^4.3.2",
     "webpack": "^4.39.3",
     "webpack-cli": "^3.3.8"
   },
   "devDependencies": {
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
+    "grunt-aws-s3": "^2.0.1"
   }
 }
